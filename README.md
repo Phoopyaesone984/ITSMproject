@@ -1,7 +1,7 @@
 # UCSY Canteen Project
 **Second Year Semester III Project**
 
-This project is a simple web-based application built to help manage food ordering, menu updates, and order tracking within the university canteen. The system improves efficiency for both canteen staff and students by allowing digital interaction with the daily menu and order process.
+This project is a simple web-based application built to help manage food ordering, menu updates, and order tracking within the university canteen(including Khaing Canteen, Tarchileik Canteen & ShanMaLay Canteen). The system improves efficiency for students by allowing digital interaction with the daily menu and order process.
 
 ---
 
